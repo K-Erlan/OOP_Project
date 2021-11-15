@@ -1,5 +1,6 @@
 # OOP_Project
 ## This is the Simulation of ball which crash boxes
+### You can't control the ball, because it's simulation movement
 
 ## Let's whatch a screenshots 
 
